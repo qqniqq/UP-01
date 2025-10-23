@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HospitalSolution.Properties
+namespace Hospital.Properties
 {
 
 

@@ -80,5 +80,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:\BOIKOV\HospitalSolution\Hospital.Core\Hospital.Core.csproj">
+      <Project>{58a1cc34-7e07-4596-aa98-4e3c7c20e081}</Project>
+      <Name>Hospital.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BOIKOV\HospitalSolution\Hospital.Data\Hospital.Data.csproj">
+      <Project>{1b7f9f67-2f06-4944-b1f8-d6638e304d88}</Project>
+      <Name>Hospital.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
