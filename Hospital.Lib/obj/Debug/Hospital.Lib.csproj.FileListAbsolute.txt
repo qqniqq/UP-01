@@ -1,0 +1,6 @@
+D:\BOIKOV\Hospital.Lib\bin\Debug\Hospital.Lib.dll
+D:\BOIKOV\Hospital.Lib\bin\Debug\Hospital.Lib.pdb
+D:\BOIKOV\Hospital.Lib\obj\Debug\Hospital.Lib.csproj.AssemblyReference.cache
+D:\BOIKOV\Hospital.Lib\obj\Debug\Hospital.Lib.csproj.CoreCompileInputs.cache
+D:\BOIKOV\Hospital.Lib\obj\Debug\Hospital.Lib.dll
+D:\BOIKOV\Hospital.Lib\obj\Debug\Hospital.Lib.pdb
