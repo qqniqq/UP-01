@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Configuration;
 using System.Windows.Forms;
-using Hospital.Core;
+using Hospital.Lib;
 using Hospital.Data; // реализация
 
 
